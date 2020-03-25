@@ -1,3 +1,5 @@
+package com.example.project;
+
 public class Simple {
 
 	// Write a function that returns the smaller of
