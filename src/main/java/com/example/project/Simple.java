@@ -4,6 +4,7 @@ public class Simple {
 	// two integer inputs
 	public static int min(int x, int y)
 	{
+		return Math.min(x, y);
 		// YOUR CODE HERE
 	}
 
